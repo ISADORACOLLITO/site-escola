@@ -1,4 +1,4 @@
-body{background-color: #2CBBC5;}
+body{background-color: #de6ee2;}
 .cabecalho {
 background-color:#384B58;
 color: white;
@@ -18,8 +18,30 @@ font-size: 24px;
 }
 
 .escola {
-    background-image: linear-gradient(#383b58,#00c0eb);
-
+    background-image: linear-gradient(#383b58,#e079db);
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+.escola-conteudo{
+    width: 35%;
+}
+.escola-conteudo{
+    width: 50%;
+}
+.escola-titulo{
+    padding: 20px;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+    width: 24px;
+}
+.estudante-div{
+    text-align: center;
+}
 
 
 
